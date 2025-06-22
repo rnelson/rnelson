@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking for **a senior-level backend development job!**
 
-- 📫 Reach out at [https://rnelson.omg.lol](rnelson.omg.lol).
+- 📫 Reach out at [rnelson.omg.lol](https://rnelson.omg.lol).
 
-- 📄 View my CV/résumé at [https://cv.libexec.net](https://cv.libexec.net).
+- 📄 View my CV/résumé at [cv.libexec.net](https://cv.libexec.net).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
