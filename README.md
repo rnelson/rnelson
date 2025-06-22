@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ross!</h1>
-<h3 align="center">backend developer who loves taking photos</h3>
+<h2 align="center">I'm a backend developer who loves taking photos.</h2>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, and Go**
+- 🌱 I’m currently learning React, Tailwind CSS, and Go.
 
-- 🤝 I’m looking for help with **finding a backend development job!**
+- 🤝 I’m looking for **a senior-level backend development job!**
 
-- 📫 How to reach me: [https://rnelson.omg.lol](rnelson.omg.lol)
+- 📫 Reach out at [https://rnelson.omg.lol](rnelson.omg.lol).
 
-- 📄 Know about my experiences [https://cv.libexec.net](https://cv.libexec.net)
+- 📄 View my CV/résumé at [https://cv.libexec.net](https://cv.libexec.net).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
